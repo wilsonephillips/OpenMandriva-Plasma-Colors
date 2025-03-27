@@ -1,0 +1,1 @@
+Open the colorscheme and use Ctl+Shft+s to save to your hard drive. Place file in ~/.local/share/color-schemes/ and it will show as a choice in the System Settings > Colors & Themes > Colors as OM-Dark
